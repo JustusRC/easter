@@ -1,5 +1,3 @@
-package p2.one;
-
 import java.util.Scanner;
 
 public class cs234 {
